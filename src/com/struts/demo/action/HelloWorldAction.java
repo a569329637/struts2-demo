@@ -1,4 +1,4 @@
-package com.struts.demo;
+package com.struts.demo.action;
 
 public class HelloWorldAction {
 	private String name;

@@ -7,7 +7,7 @@
 	
     <package name="helloworld" extends="struts-default">
       <action name="hello"
-            class="com.struts.demo.HelloWorldAction" 
+            class="com.struts.demo.action.HelloWorldAction" 
             method="execute">
             <result name="success">/jsp/HelloWorld.jsp</result>
       </action>
